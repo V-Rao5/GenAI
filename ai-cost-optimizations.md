@@ -1,4 +1,4 @@
-# 09 — AI Cost Optimization
+# 08 — AI Cost Optimization
 
 ## 📖 Concept
 
