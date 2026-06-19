@@ -1,4 +1,4 @@
-# 08 — Function Calling (Tool Use)
+# 07 — Function Calling (Tool Use)
 
 ## 📖 Concept
 
