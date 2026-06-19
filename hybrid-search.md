@@ -1,4 +1,4 @@
-# 10 — Hybrid Search
+# 9 — Hybrid Search
 
 ## 📖 Concept
 
